@@ -69,6 +69,10 @@ First we need to create the `db` directory where the database files will live in
 ## Simple build for production
 
     $ yarn build
+    
+## App On Heroku
+
+    $ https://lifesportsr2h.herokuapp.com/
 
 ## Author
 
